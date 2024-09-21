@@ -5,14 +5,8 @@
 
 - 🔭 I’m currently working on **Password Cracking on a Local Network**
 
-- 📝 I regularly write articles on [https://sites.google.com/view/be-traveler](https://sites.google.com/view/be-traveler)
+- 📝 I often write articles on travel in my site- [https://sites.google.com/view/be-traveler](https://sites.google.com/view/be-traveler)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yassinarafat16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassinarafat16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-yeasin-arafat-259411184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-yeasin-arafat-259411184/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/zayn.araf.792/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zayn.araf.792/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
